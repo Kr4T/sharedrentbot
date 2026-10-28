@@ -18,8 +18,8 @@ advertising licence number, and the licence or commercial registration number an
 real-estate office behind an ad.
 
 It does **not** keep: people's names, mobile numbers, email addresses, user profiles, page text, descriptions or
-photos of the inside of flats. It never logs in, never opens account, profile or message pages, and never
-fills in forms.
+photos of the inside of flats. It does not log in, and does not open account, profile or message pages, unless
+the service's operator has approved that for a specific site. It may complete CAPTCHA and browser checks.
 
 ## How it behaves
 
@@ -50,7 +50,8 @@ SharedRentBot هو زاحف الويب لخدمة مشاركة سكن قيد ا�
 ورقم الترخيص أو السجل التجاري والهاتف الثابت للمكتب العقاري صاحب الإعلان.
 
 لا يحفظ: أسماء الأشخاص، أرقام الجوال، البريد الإلكتروني، الملفات الشخصية، نصوص الصفحات أو الأوصاف، ولا صور داخل الشقق.
-لا يسجّل الدخول أبداً، ولا يفتح صفحات الحسابات أو الملفات الشخصية أو الرسائل، ولا يعبّئ النماذج.
+لا يسجّل الدخول ولا يفتح صفحات الحسابات أو الملفات الشخصية أو الرسائل إلا بموافقة مشغّل الخدمة لموقع محدد. وقد يجتاز
+اختبارات CAPTCHA وفحوص المتصفح.
 
 ## كيف يعمل
 
